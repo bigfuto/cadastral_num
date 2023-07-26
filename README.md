@@ -1,6 +1,4 @@
-# cadastral_num
-
-# cadastral numиук
+# cadastral number
 
 
 
@@ -47,6 +45,6 @@ http://127.0.0.1:8001/docs
 ```
 
 **Остановка проекта:**
-    ```bash
-    docker-compose down 
-    ```
+```bash
+docker-compose down 
+```
